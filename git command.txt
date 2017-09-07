@@ -1,2 +1,11 @@
 git config --global user.email "kaushik.pradhan123@gmail.com"
 git config --global user.name "KaushikPradhanGit"
+
+
+
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/KaushikPradhanGit/GitKaushikRepo.git
+git push -u origin master
